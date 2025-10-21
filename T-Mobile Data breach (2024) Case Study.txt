@@ -1,0 +1,39 @@
+T-Mobile Data breach (2021)
+By: Kevin Alexander & Ethan Jones
+
+Crime Committed and What Form of The CIA Triad was violated (Confidentiality, Integrity, Availability)
+Some crime committed were: Hacking-related offenses, Conspiracy, Wire fraud Money laundering, and Aggravated identity theft.
+Form of CIA Triad that was violated:  Confidentiality 
+
+
+What Current Authentications Measures Were in Place and How this event changed how users will be authenticated in the future 
+What current authentications measures were in place before: Weak API Security, Inadequate employee multi-factor authentication, Weak internal network controls, Vulnerable SMS-based authentication, and the use of account PINs
+What current authentications measures were in place After: Phishing-resistant MFA, Enhanced SIM change protection,Mandatory port-out protection, Biometric authentication, and Authenticator app support. 
+How this event changed how users will be authenticated in the future: This event changed how users will be authenticated in the future by highlighting the need for stronger authentication by prompting companies to deploy phishing-resistant multi factor authentication (MFA) and adopt a zero trust architecture
+
+ 
+
+Who’s data was stolen and When Did This Happen?
+
+The T-Mobile breach exposed customers' data, including Social Security numbers, names, phone numbers, driver's license information, and other types of personally identifiable information (PII). The hackers also compromised the mobile phone IMEI and IMSI information of affected customers.
+This Had Happened on the date August 15 2021.
+
+How Was the Data Stolen and What Current Security Controls Were In Place?
+How the data was stolen: hackers initially gained access by exploiting an unprotected testing environment, then used a brute-force attack to penetrate the company's internal servers and steal customer data. 
+What current security controls were in place: Inadequate network segmentation, Weak access controls, Insufficient monitoring and alerting, No process for risk assessment, Poor management of legacy systems. 
+ 
+
+
+What Security Control Functions or Measures Could Have Been Put In Place To Prevent This Event From Occurring?
+What Security Control Function or Measures that could of been in place to prevent this event from occurring: 
+To prevent the 2021 T-Mobile data breach, the company could have implemented stronger security controls including multi-factor authentication (MFA), a robust Zero Trust Architecture (ZTA), comprehensive API security management, regular security audits and vulnerability scanning, and effective employee security training to enforce better cyber hygiene practices** like strong password use.
+
+
+What Are The Privacy Concerns that arise from the data being stolen?
+The Privacy Concerns that arose from the data being stolen was that their private data might be leaked or sold online for other hackers so they can breach into their systems more, identity theft, credit fraud. account takeovers, phishing attacks, and etc.
+
+How could cybercrime have been prevented in this case and Was there a flaw in the Technology?
+How could cybercrime have been prevented in this case: This could have been prevented by implementing better cybersecurity measures, such as stronger user authorization, mandatory multi-factor authentication, network segmentation to isolate sensitive data, timely patching of known vulnerabilities, implementing rate limiting for login attempts, and improving internal monitoring to detect and respond to suspicious activity in a timely manner.
+
+What flaw was in the technology: Key technical flaws included: Unprotected GPRS gateway, Weak credentials, Insufficient brute-force protection, Lack of network segmentation, and Inadequate monitoring.
+
